@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+/* navber section */
+.nav-container {
+    display: flex;
+    padding: 15px;
+    align-items: center;
+    justify-content: space-between;
+    color: #ff0068ff;
+}
+.nav-logo > h2 {
+    color: rgb(0, 0, 0);
+}
+nav ul {
+    display: flex;
+}
+nav li {
+    list-style: none;
+    margin: 20px;
+    cursor: pointer;
+}
+nav li:hover {
+    color: black;
+}
