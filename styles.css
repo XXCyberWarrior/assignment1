@@ -60,7 +60,7 @@ nav li:hover {
 .btn {
   margin-top: 32px;
   border-radius: 8px;
-  background: #e55473;
+  background: #e52165;
   color: white;
   border: none;
   font-size: 20px;
@@ -168,7 +168,7 @@ nav li:hover {
 /* button one */
 .btn1 {
   padding: 20px 42px;
-  background: #e55473;
+  background: #e52165;
   color: white;
   border: none;
   border-radius: 8px;
@@ -185,7 +185,7 @@ nav li:hover {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 228px;
+  margin-bottom: 128px;
   padding: 0px 210px;
 }
 .flower-con1 {
@@ -214,7 +214,7 @@ nav li:hover {
 }
 /* section 5 */
 .last-deals {
-  padding: 128px 240px;
+  padding: 228px 240px;
   background-image: url(./asset/Rectangle\ 9.png);
   background-position: center;
   background-repeat: no-repeat;
@@ -232,13 +232,13 @@ nav li:hover {
 
 .btn2 {
   padding: 20px 42px;
-  background: #e55473;
+  background: #e52165;
   color: white;
   border: none;
   border-radius: 8px;
 }
 .span {
-  color: #e55473;
+  color: #e52165;
 }
 .footer {
   margin-top: 128px;
@@ -274,39 +274,47 @@ nav li:hover {
   text-align: center;
 }
 .flower-blist > ul {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 5px 0px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 0px 40px;
 }
 .flower-blist li {
-  list-style: none;
-  padding: 30px;
-  font-size: 18px;
-  font-weight: 300;
+    list-style: none;
+    padding: 30px;
+    font-size: 18px;
+    font-weight: 300;
 }
 .mt {
-  font-family: Arial, Helvetica, sans-serif;
-  padding: 25px 0px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 25px 0px 0px;
 }
 .mb-t {
-  margin: 25px 0px 15px;
+    margin: 25px 0px 15px;
 }
 .small {
-  font-size: 11px;
-  margin-left: 4px;
+    font-size: 11px;
+    margin-left: 4px;
 }
 .tbo {
-  color: #e52165;
-  text-align: center;
-  font-size: 40px;
-  font-weight: 800;
-  padding: 10px 0px;
+    color: #e52165;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 10px 0px;
 }
 .offercolor {
-  color: #e52165;
+    color: #e52165;
 }
 .offercolor2 {
-  text-decoration: none;
-  color: black;
+    text-decoration: none;
+    color: black;
+}
+.oder-btn {
+  margin-top: 15px;
+  color: white;
+  background-color: #e52165;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
 }
