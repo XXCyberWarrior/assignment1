@@ -227,9 +227,18 @@ nav li:hover {
   text-align: center;
   border-radius: 8px;
   border: none;
-  margin-right: 16px;
+  position: relative;
+  left: 70px;
 }
-
+.last {
+  position: relative;
+  left: 80px;
+  padding: 20px 42px;
+  background: #e52165;
+  color: white;
+  border: none;
+  border-radius: 8px;
+}
 .btn2 {
   padding: 20px 42px;
   background: #e52165;
@@ -238,10 +247,9 @@ nav li:hover {
   border-radius: 8px;
 }
 .span {
-  color: #e52165;
+  color: #E55473;
 }
 .footer {
-  margin-top: 128px;
   padding: 128px 0px;
   background-color: #111010;
   color: white;
@@ -311,10 +319,11 @@ nav li:hover {
     color: black;
 }
 .oder-btn {
-  margin-top: 15px;
+  margin-top: 12px;
   color: white;
   background-color: #e52165;
   padding: 10px;
   border-radius: 8px;
   border: none;
 }
+/* Finish My Project */
