@@ -93,7 +93,7 @@ nav li:hover {
     line-height: 30px;
     margin-bottom: 48px;
 }
-/* Iptional section */
+/* Optional section */
 
 .container {
     display: flex;
@@ -166,6 +166,7 @@ nav li:hover {
     margin-bottom: 128px;
     background-color: rgba(229, 84, 115, 0.05);
 }
+/* button one */
 .btn1 {
     padding: 20px 42px;
     background: #E55473;
@@ -179,6 +180,7 @@ nav li:hover {
     font-weight: 700;
     margin-bottom: 20px;
 }
+/* section 4 */
 .flower-container {
     margin: 48px 24px 0px;
     display: flex;
@@ -213,7 +215,7 @@ nav li:hover {
 }
 .last-deals {
     padding: 128px 240px;
-    background-image: url(./Image/Rectangle\ 9.png);
+    background-image: url(./asset/Rectangle\ 9.png);
     background-position: center;
     background-repeat: no-repeat;
     text-align: center;
